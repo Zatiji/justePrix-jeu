@@ -1,0 +1,3 @@
+/Users/davidmosquera/programmation/C++/Projets/justePrix/justePrix-jeu/cmake-build-debug/CMakeFiles/untitled.dir
+/Users/davidmosquera/programmation/C++/Projets/justePrix/justePrix-jeu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/davidmosquera/programmation/C++/Projets/justePrix/justePrix-jeu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
